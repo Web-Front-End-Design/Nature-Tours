@@ -1,0 +1,22 @@
+{
+  "name": "nature-tour",
+  "version": "1.0.0",
+  "description": "main page for nature tours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Web-Front-End-Design/Nature-Tours.git"
+  },
+  "author": "lakshan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Web-Front-End-Design/Nature-Tours/issues"
+  },
+  "homepage": "https://github.com/Web-Front-End-Design/Nature-Tours#readme",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
