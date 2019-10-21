@@ -12,7 +12,10 @@
     // @include respond(tab-port) {
     //     padding: 2rem;
     // }
- 
+    @include respond(tab-port) {
+       padding: 2em;
+    }
+
     &__icon { 
         font-size: 6rem;
         margin-bottom: .5rem;
@@ -25,7 +28,9 @@
         // @include respond(tab-port) {
         //     margin-bottom: 0;
         // }
-
+        @include respond(tab-port) {
+            margin-bottom: 0;      
+        }           
        
     }
 
